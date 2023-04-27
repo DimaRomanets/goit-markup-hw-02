@@ -13,7 +13,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    color: #2E2F42;
+    color: #434455;
     background-color: #FFFFFF;
 }
 
@@ -75,6 +75,10 @@ body {
 
 /* CONTACT */
 
+
+.contact-menu {
+    font-style: normal;
+}
 
 .contact-menu-link {
     font-family: var(--primary-font);
