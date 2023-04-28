@@ -27,9 +27,9 @@ body {
 
 /* Header */
 /* LOGO */
-.page-header {
+/* .page-header {
     background-color: #FFFFFF;
-}
+} */
 
 .logo-link-header {
     font-family: "Raleway", sans-serif;
@@ -37,15 +37,15 @@ body {
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
-    display: flex;
-    align-items: center;
+    /* display: flex;
+    align-items: center; */
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
 }
 
 .logo-header-studio {
-    font-family: "Raleway", sans-serif;
+    /* font-family: "Raleway", sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
@@ -53,13 +53,13 @@ body {
     display: flex;
     align-items: center;
     letter-spacing: 0.03em;
-    text-transform: uppercase;
+    text-transform: uppercase; */
     color: #2E2F42;
 }
 
 /* Navigation */
 .menu-link {
-    font-family: var(--primary-font);
+
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -81,13 +81,13 @@ body {
 }
 
 .contact-menu-link {
-    font-family: var(--primary-font);
+
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--secondary-text-color-theme-light);
+    /* color: var(--secondary-text-color-theme-light); */
 }
 
 .contact-menu-link:hover,
@@ -104,24 +104,24 @@ body {
 
 
 .text-hero {
-    font-family: var(--primary-font);
+    /* font-family: var(--primary-font); */
     font-style: normal;
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
-    text-align: center;
+    /* text-align: center; */
     letter-spacing: 0.02em;
     color: var(--primery-text-color-theme-dark);
 }
 
 .modal-btn {
-    font-family: var(--primary-font);
+    /* font-family: var(--primary-font); */
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    display: flex;
-    align-items: center;
+    /* display: flex;
+    align-items: center; */
     letter-spacing: 0.04em;
     color: var(--primery-text-color-theme-dark);
     background: #4D5AE5;
@@ -139,7 +139,7 @@ body {
 
 /* для всіх абзаців */
 .information-subtitle {
-    font-family: var(--primary-font);
+    /* font-family: var(--primary-font); */
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
@@ -149,25 +149,25 @@ body {
 }
 
 .information-subtitle-text {
-    font-family: var(--primary-font);
+    /* font-family: var(--primary-font); */
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--secondary-text-color-theme-light);
+    /* color: var(--secondary-text-color-theme-light); */
 }
 
 
 /* Section 2 */
 
 .section-work-title {
-    font-family: var(--primary-font);
+    /* font-family: var(--primary-font); */
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
-    text-align: center;
+    /* text-align: center; */
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--primery-text-color-theme-light);
@@ -180,28 +180,28 @@ body {
 }
 
 .section-team-title {
-    font-family: var(--primary-font);
+    /* font-family: var(--primary-font); */
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
-    text-align: center;
+    /* text-align: center; */
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--primery-text-color-theme-light);
 }
 
 .section-team-item {
-    background-color: #FFFFFF;
+    /* background-color: #FFFFFF; */
 }
 
 .section-team-subtitle {
-    font-family: var(--primary-font);
+    /* font-family: var(--primary-font); */
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    text-align: center;
+    /* text-align: center; */
     letter-spacing: 0.02em;
     color: var(--primery-text-color-theme-light);
 }
@@ -211,10 +211,10 @@ body {
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
-    text-align: center;
+    line-height: 1.5;
+    /* text-align: center; */
     letter-spacing: 0.02em;
-    color: var(--secondary-text-color-theme-light);
+    /* color: var(--secondary-text-color-theme-light); */
 }
 
 
@@ -229,9 +229,9 @@ body {
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 21px;
-    display: flex;
-    align-items: center;
+    line-height: 1.16;
+    /* display: flex;
+    align-items: center; */
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #F4F4FD;
@@ -241,7 +241,7 @@ body {
 
 
 .footer-text {
-    font-family: var(--primary-font);
+    /* font-family: var(--primary-font); */
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -261,14 +261,14 @@ body {
 
 
 .modal-btn-portfolio {
-    font-family: "Roboto", sans-serif;
+    /* font-family: "Roboto", sans-serif; */
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    display: flex;
+    /* display: flex;
     align-items: center;
-    text-align: center;
+    text-align: center; */
     letter-spacing: 0.04em;
     color: #4D5AE5;
     background-color: #F4F4FD;
@@ -290,7 +290,7 @@ body {
 
 
 .portfolio-work-subject {
-    font-family: var(--primary-font);
+    /* font-family: var(--primary-font); */
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
@@ -300,7 +300,7 @@ body {
 }
 
 .portfolio-work-text {
-    font-family: var(--primary-font);
+    /* font-family: var(--primary-font); */
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
